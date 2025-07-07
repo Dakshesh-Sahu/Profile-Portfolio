@@ -9,7 +9,6 @@ A responsive and minimalist personal portfolio website created to highlight my s
 5.) Fully responsive design across all devices
 
 **Tech Stack:**
-HTML, CSS, JavaScript
-Deployed via GitHub Pages
+HTML, CSS, JavaScript, Deployed via GitHub Pages
 
 <img width="1912" height="867" alt="Image" src="https://github.com/user-attachments/assets/018f35ed-4763-45ca-91e2-9e6b364da396" />
